@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ThibaudDer
-- 👀 I’m interested in a lot a innovative subjects, aorospace, energies and how automation can improve our understanding of them.
+- 👀 I’m interested in a lot a innovative subjects, aeorospace, energies and how automation can improve our understanding of them.
 - 🌱 I’m currently doing a phd in material science
 - 
 - 📫 How to reach me : thibaud.derieux@cea.fr
